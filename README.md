@@ -8,12 +8,18 @@ There are various benefits to this strategy. It can detect even minute indicatio
 
 Image fabrication is the intentional alteration of a digital image for forensic purposes. They might resize and crop photos, or they might make adjustments to a picture to hide something. It's like adding a layer on top of a painting to alter its appearance. Because editing tools have advanced, it has become more difficult to spot forgeries. There are numerous techniques for image forging, all aimed at modifying the visual content of a digital image. 
 Here are a few typical techniques:
-Splicing: It is the process of combining portions of many photographs to produce a new one.
-Copy-and-Paste: Changing or modifying an image by copying and pasting its components.
- Retouching: The act of altering objects or people in an image to make them look better or different. 
-Cloning: The act of copying objects or patterns inside a picture to fill in gaps or eliminate extraneous details.
-Overlay: Changing the appearance or meaning of an image by applying text, graphics, or effects.
-Removal of Watermarks: Removing or concealing marks placed on photos to indicate ownership or copyright.
+
+*Splicing: It is the process of combining portions of many photographs to produce a new one.
+
+*Copy-and-Paste: Changing or modifying an image by copying and pasting its components.
+
+*Retouching: The act of altering objects or people in an image to make them look better or different. 
+
+*Cloning: The act of copying objects or patterns inside a picture to fill in gaps or eliminate extraneous details.
+
+*Overlay: Changing the appearance or meaning of an image by applying text, graphics, or effects.
+
+*Removal of Watermarks: Removing or concealing marks placed on photos to indicate ownership or copyright.
 
 Using picture forgeries has some significant disadvantages. It can spread false information and erode confidence in real photographs. Legally, it could lead to problems with copyright and privacy.
 
